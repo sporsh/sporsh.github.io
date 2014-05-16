@@ -1,0 +1,3 @@
+- cordova
+- ionic
+- node-webkit
